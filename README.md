@@ -15,18 +15,17 @@ The goal of this project is to analyze a dataset containing monthly temperature 
 
 ## 🔧 Technologies Used
 
-| Tool        | Purpose                          |
-|-------------|----------------------------------|
-| Python      | Programming language             |
-| Pandas      | Data manipulation and analysis   |
-| Seaborn     | Statistical data visualization   |
-| Matplotlib  | Plotting and chart rendering     |
-| Google Colab| Notebook environment             |
+| Tool         | Purpose                          |
+|--------------|----------------------------------|
+| Python       | Programming language             |
+| Pandas       | Data manipulation and analysis   |
+| Seaborn      | Statistical data visualization   |
+| Matplotlib   | Plotting and chart rendering     |
+| Google Colab | Notebook environment             |
 
 ## 📈 Sample Output
 
 ![Monthly Avg Temperature Plot](https://github.com/Bhavaniputti/WeatherData_Analysis/blob/main/sample_plot.png)
-
 
 ## 📁 Dataset
 
@@ -34,7 +33,8 @@ The goal of this project is to analyze a dataset containing monthly temperature 
 - The dataset contains monthly temperature observations.
 - Typical columns:
   - `Month`
-  - `AverageTemperature etc `
+  - `AverageTemperature`, etc.
+
 ## 🚀 How to Use
 
 1. Clone the repository or open the notebook in Google Colab.
@@ -42,9 +42,14 @@ The goal of this project is to analyze a dataset containing monthly temperature 
 3. Run the cells to perform the analysis and generate the plot.
 
 ```bash
-git clone https://github.com/Bhavaniputti/WeatherData_Analysis.git```
+git clone https://github.com/Bhavaniputti/WeatherData_Analysis.git
+📌 To-Do
+ Add more visualizations (e.g., line plots, box plots)
 
-## 📌 To-Do
+ Add temperature comparison across years (if dataset allows)
 
-- [ ] Add more visualizations (e.g., line plots, box plots)
-- [ ] Deploy as a Streamlit or Flask web app 
+ Deploy as a Streamlit or Flask web app (optional)
+
+yaml
+Copy
+Edit
