@@ -42,7 +42,7 @@ The goal of this project is to analyze a dataset containing monthly temperature 
 3. Run the cells to perform the analysis and generate the plot.
 
 ```bash
-git clone https://github.com/Bhavaniputti/WeatherData_Analysis.git
+git clone https://github.com/Bhavaniputti/WeatherData_Analysis.git```
 
 ## 📌 To-Do
 
