@@ -25,7 +25,7 @@ The goal of this project is to analyze a dataset containing monthly temperature 
 
 ## 📈 Sample Output
 
-![Monthly Avg Temperature Plot](https://github.com/yourusername/weather-data-analysis/blob/main/sample_plot.png)
+![Monthly Avg Temperature Plot](https://github.com/Bhavaniputti/WeatherData_Analysis/blob/main/sample_plot.png)
 
 > *(Replace the above link with your actual image link once you upload the plot image to the repo.)*
 
