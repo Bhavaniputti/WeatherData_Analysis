@@ -31,9 +31,11 @@ The goal of this project is to analyze a dataset containing monthly temperature 
 
 ## 📁 Dataset
 
-- The dataset contains monthly temperature data.
-- Columns: `Month`, `Temperature` (or `AverageTemperature` depending on your dataset)
-
+- **Source**: [Kaggle - Weather Dataset](https://www.kaggle.com/)
+- The dataset contains monthly temperature observations.
+- Typical columns:
+  - `Month`
+  - `AverageTemperature`
 ## 🚀 How to Use
 
 1. Clone the repository or open the notebook in Google Colab.
