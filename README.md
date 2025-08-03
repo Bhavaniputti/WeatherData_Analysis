@@ -27,7 +27,6 @@ The goal of this project is to analyze a dataset containing monthly temperature 
 
 ![Monthly Avg Temperature Plot](https://github.com/Bhavaniputti/WeatherData_Analysis/blob/main/sample_plot.png)
 
-> *(Replace the above link with your actual image link once you upload the plot image to the repo.)*
 
 ## 📁 Dataset
 
@@ -35,7 +34,7 @@ The goal of this project is to analyze a dataset containing monthly temperature 
 - The dataset contains monthly temperature observations.
 - Typical columns:
   - `Month`
-  - `AverageTemperature`
+  - `AverageTemperature etc `
 ## 🚀 How to Use
 
 1. Clone the repository or open the notebook in Google Colab.
@@ -43,10 +42,9 @@ The goal of this project is to analyze a dataset containing monthly temperature 
 3. Run the cells to perform the analysis and generate the plot.
 
 ```bash
-git clone https://github.com/yourusername/weather-data-analysis.git
-📌 To-Do
- .Add more visualizations (e.g., line plots, box plots)
+git clone https://github.com/Bhavaniputti/WeatherData_Analysis.git
 
- .Add temperature comparison across years (if dataset allows)
+## 📌 To-Do
 
- .Deploy as a Streamlit or Flask web app (optional)
+- [ ] Add more visualizations (e.g., line plots, box plots)
+- [ ] Deploy as a Streamlit or Flask web app 
